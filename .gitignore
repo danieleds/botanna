@@ -6,4 +6,4 @@
 # Others
 bin/Botanna
 Botanna-build-desktop/*
-source/*.pro
+source/*.pro.user
